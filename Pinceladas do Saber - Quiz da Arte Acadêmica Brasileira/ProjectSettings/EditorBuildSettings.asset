@@ -5,7 +5,52 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3d6eba3309de0c542a38aa5e06e598c5
+  - enabled: 1
+    path: Assets/Scenes/Pergunta1.unity
+    guid: 4cc3448aee7ff434d9f9ee4b9e14a658
+  - enabled: 1
+    path: Assets/Scenes/Pergunta2.unity
+    guid: de7193a18f34f22428be04862d8998e8
+  - enabled: 1
+    path: Assets/Scenes/Pergunta3.unity
+    guid: a4b6b413615b3e346b5f0aabcf0fd98c
+  - enabled: 1
+    path: Assets/Scenes/Pergunta4.unity
+    guid: beca592dde8292f45b99a3a5fb2949cd
+  - enabled: 1
+    path: Assets/Scenes/Pergunta5.unity
+    guid: 0d913318a25b82c4eb5d35c1e31f1eee
+  - enabled: 1
+    path: Assets/Scenes/Pergunta6.unity
+    guid: 2da585593ed3db449ac363d90b1b4f3d
+  - enabled: 1
+    path: Assets/Scenes/Pergunta7.unity
+    guid: 1099a8cff629c7d49adb5aa398ea5bfa
+  - enabled: 1
+    path: Assets/Scenes/Pergunta8.unity
+    guid: 4b2fa8ee7857b1643b8780a5306492a1
+  - enabled: 1
+    path: Assets/Scenes/Pergunta9.unity
+    guid: f7fd87747697f214f894af5d6a94d1c7
+  - enabled: 1
+    path: Assets/Scenes/Pergunta10.unity
+    guid: fe61d6fc5b409634fa72166f5cfda931
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Errou.unity
+    guid: 2f3447a6098ffa04cb0bec7d7fc13947
+  - enabled: 1
+    path: Assets/Scenes/Acertou.unity
+    guid: f9f933c27ecf057468363cc73cbeb9be
   m_configObjects: {}
