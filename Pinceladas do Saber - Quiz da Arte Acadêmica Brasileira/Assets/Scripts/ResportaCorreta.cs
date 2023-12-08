@@ -19,61 +19,61 @@ public class ResportaCorreta : MonoBehaviour
     public void ClicBotão1()
     {
         audioSource.PlayOneShot(somCorreto);
-        Invoke("Correta1", 1f);
+        Invoke("Correta1", 0.5f);
     }
 
     public void ClicBotão2()
     {
         audioSource.PlayOneShot(somCorreto);
-        Invoke("Correta2", 1f);
+        Invoke("Correta2", 0.5f);
     }
     
     public void ClicBotão3()
     {
         audioSource.PlayOneShot(somCorreto);
-        Invoke("Correta3", 1f);
+        Invoke("Correta3", 0.5f);
     }
     
     public void ClicBotão4()
     {
         audioSource.PlayOneShot(somCorreto);
-        Invoke("Correta4", 1f);
+        Invoke("Correta4", 0.5f);
     }
     
     public void ClicBotão5()
     {
         audioSource.PlayOneShot(somCorreto);
-        Invoke("Correta5", 1f);
+        Invoke("Correta5", 0.5f);
     }
     
     public void ClicBotão6()
     {
         audioSource.PlayOneShot(somCorreto);
-        Invoke("Correta6", 1f);
+        Invoke("Correta6", 0.5f);
     }
     
     public void ClicBotão7()
     {
         audioSource.PlayOneShot(somCorreto);
-        Invoke("Correta7", 1f);
+        Invoke("Correta7", 0.5f);
     }
     
     public void ClicBotão8()
     {
         audioSource.PlayOneShot(somCorreto);
-        Invoke("Correta8", 1f);
+        Invoke("Correta8", 0.5f);
     }
     
     public void ClicBotão9()
     {
         audioSource.PlayOneShot(somCorreto);
-        Invoke("Correta9", 1f);
+        Invoke("Correta9", 0.5f);
     }
     
     public void ClicBotão10()
     {
         audioSource.PlayOneShot(somCorreto);
-        Invoke("Correta10", 1f);
+        Invoke("Correta10", 0.5f);
     }
     
     public void Correta1()

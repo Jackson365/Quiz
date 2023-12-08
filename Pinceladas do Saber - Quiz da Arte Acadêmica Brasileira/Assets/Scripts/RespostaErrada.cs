@@ -22,6 +22,6 @@ public class RespostaErrada : MonoBehaviour
     public void ClicBotão()
     {
         _audioSource.PlayOneShot(somErrado);
-        Invoke("CarregarPCena", 1f);
+        Invoke("CarregarPCena", 0.5f);
     }
 }
